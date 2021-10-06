@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hacktoberfest.my_finance_mobile">
    <application
-        android:label="my_finance_mobile"
+        android:label="My Finance"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
