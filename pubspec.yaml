@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  
   dio:
   http:
   url_launcher:
@@ -35,6 +36,7 @@ dependencies:
   flutter_mobx: ^2.0.1
 
 dev_dependencies:
+ 
   build_runner: ^1.7.3
   flutter_modular_test: ^1.0.1
   flutter_test:
